@@ -771,7 +771,7 @@ nav {
   flex-direction: column;
   background: 
   linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-  url(/img/contact_us.png) center/cover;
+  url(img/contact_us.png) center/cover;
   background-position: center;
   background-size: cover;
 }
@@ -1050,5 +1050,6 @@ footer {
     padding: 3rem 2rem;
   }
 }
+
 
 
