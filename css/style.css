@@ -68,7 +68,7 @@ nav {
   display: flex;
   justify-content: space-between;
   font-family: system-ui,-apple-system, Helvetica, Arial, sans-serif;
-  background-image: url(/img/header.png);
+  background-image: url(img/header.png);
   padding: 0;
   background-repeat: no-repeat; 
   background-size: cover; 
@@ -1050,4 +1050,5 @@ footer {
     padding: 3rem 2rem;
   }
 }
+
 
